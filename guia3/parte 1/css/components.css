@@ -27,6 +27,12 @@
     color: #1e3a8a;
 }
 
+.app-content p {
+    margin: 0;
+    font-size: 18px;
+    color: #1e3a8a;
+}
+
 
 .app-footer {
     background-color: #ddd;
